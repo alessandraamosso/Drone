@@ -1,0 +1,49 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2021-03-27 18:34:22.281834
+end_time: 2021-03-27 18:34:22.349066
+duration: 0.067232
+
+id: 1
+command: takeoff
+response: b'ok'
+start time: 2021-03-27 18:34:22.349196
+end_time: 2021-03-27 18:34:28.961420
+duration: 6.612224
+
+id: 2
+command: left 20
+response: b'ok'
+start time: 2021-03-27 18:34:28.961420
+end_time: 2021-03-27 18:34:31.052575
+duration: 2.091155
+
+id: 3
+command: right 20
+response: b'error No valid imu'
+start time: 2021-03-27 18:34:31.052575
+end_time: 2021-03-27 18:34:32.701037
+duration: 1.648462
+
+id: 4
+command: cw 360
+response: b'error No valid imu'
+start time: 2021-03-27 18:34:32.701037
+end_time: 2021-03-27 18:34:32.944518
+duration: 0.243481
+
+id: 5
+command: flip f
+response: b'error'
+start time: 2021-03-27 18:34:32.944661
+end_time: 2021-03-27 18:34:32.991006
+duration: 0.046345
+
+id: 6
+command: land
+response: b'ok'
+start time: 2021-03-27 18:34:32.991006
+end_time: 2021-03-27 18:34:35.986240
+duration: 2.995234

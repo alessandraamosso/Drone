@@ -1,0 +1,7 @@
+command
+takeoff
+left 20
+right 20
+cw 360
+flip f
+land

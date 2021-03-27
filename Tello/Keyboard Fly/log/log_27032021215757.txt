@@ -1,0 +1,49 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2021-03-27 21:57:57.246568
+end_time: 2021-03-27 21:57:57.302418
+duration: 0.05585
+
+id: 1
+command: takeoff
+response: b'ok'
+start time: 2021-03-27 21:57:57.302418
+end_time: 2021-03-27 21:58:03.779663
+duration: 6.477245
+
+id: 2
+command: left 20
+response: b'ok'
+start time: 2021-03-27 21:58:03.779663
+end_time: 2021-03-27 21:58:05.769448
+duration: 1.989785
+
+id: 3
+command: right 20
+response: b'ok'
+start time: 2021-03-27 21:58:05.769448
+end_time: 2021-03-27 21:58:08.008176
+duration: 2.238728
+
+id: 4
+command: cw 360
+response: b'ok'
+start time: 2021-03-27 21:58:08.008176
+end_time: 2021-03-27 21:58:14.538420
+duration: 6.530244
+
+id: 5
+command: flip f
+response: b'error'
+start time: 2021-03-27 21:58:14.538420
+end_time: 2021-03-27 21:58:14.587804
+duration: 0.049384
+
+id: 6
+command: land
+response: b'ok'
+start time: 2021-03-27 21:58:14.587804
+end_time: 2021-03-27 21:58:17.194471
+duration: 2.606667

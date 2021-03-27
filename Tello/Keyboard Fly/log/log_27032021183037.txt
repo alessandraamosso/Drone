@@ -1,0 +1,49 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2021-03-27 18:30:37.667482
+end_time: 2021-03-27 18:30:37.737577
+duration: 0.070095
+
+id: 1
+command: takeoff
+response: b'ok'
+start time: 2021-03-27 18:30:37.737577
+end_time: 2021-03-27 18:30:44.255551
+duration: 6.517974
+
+id: 2
+command: left 20
+response: b'error No valid imu'
+start time: 2021-03-27 18:30:44.255551
+end_time: 2021-03-27 18:30:44.506692
+duration: 0.251141
+
+id: 3
+command: right 20
+response: b'error No valid imu'
+start time: 2021-03-27 18:30:44.506692
+end_time: 2021-03-27 18:30:44.786967
+duration: 0.280275
+
+id: 4
+command: cw 360
+response: b'error Not joystick'
+start time: 2021-03-27 18:30:44.786967
+end_time: 2021-03-27 18:30:45.379188
+duration: 0.592221
+
+id: 5
+command: flip f
+response: b'ok'
+start time: 2021-03-27 18:30:45.379188
+end_time: 2021-03-27 18:30:48.883119
+duration: 3.503931
+
+id: 6
+command: land
+response: b'ok'
+start time: 2021-03-27 18:30:48.883119
+end_time: 2021-03-27 18:30:51.391282
+duration: 2.508163

@@ -1,0 +1,21 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2021-02-28 17:57:10.199379
+end_time: 2021-02-28 17:57:10.232117
+duration: 0.032738
+
+id: 1
+command: streamon
+response: b'ok'
+start time: 2021-02-28 17:57:10.232117
+end_time: 2021-02-28 17:57:10.277212
+duration: 0.045095
+
+id: 2
+command: streamoff
+response: b'ok'
+start time: 2021-02-28 17:57:12.277423
+end_time: 2021-02-28 17:57:12.318329
+duration: 0.040906

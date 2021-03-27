@@ -1,0 +1,7 @@
+
+id: 0
+command: command
+response: None
+start time: 2021-03-27 22:21:51.577855
+end_time: None
+duration: None

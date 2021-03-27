@@ -1,0 +1,14 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2021-03-27 22:00:58.363816
+end_time: 2021-03-27 22:00:58.415697
+duration: 0.051881
+
+id: 1
+command: 
+response: None
+start time: 2021-03-27 22:00:58.415697
+end_time: None
+duration: None
