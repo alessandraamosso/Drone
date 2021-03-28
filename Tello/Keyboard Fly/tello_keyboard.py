@@ -1,7 +1,6 @@
 from tello import Tello
 from keyCommand import KeyCommand
 from pynput import keyboard
-from pynput.keyboard import Key
 from datetime import datetime
 
 

@@ -16,18 +16,6 @@ class KeyCommand:
         if key == Key.space:
             key_command = 'takeoff'
 
-        if key == Key.up:
-            key_command = 'up 20'
-
-        if key == Key.down:
-            key_command = 'down 10'
-
-        if key == Key.c:
-            key_command = 'cw 360'
-
-        if key == Key.f:
-            key_command = 'flip f'
-
         if key == Key.enter:
             key_command = 'land'
 
